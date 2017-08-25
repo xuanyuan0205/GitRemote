@@ -94,5 +94,11 @@ namespace MDM.Common
             }
         }
 
+		 /// <summary>
+        /// 打招呼
+        /// </summary>
+		public static void SayHello{
+		 Console.WriteLine("Hello");
+		}
     }
 }
