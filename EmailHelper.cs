@@ -100,5 +100,11 @@ namespace MDM.Common
 		public static void SayHello(){
 		 Console.WriteLine("Hello");
 		}
+		 /// <summary>
+        /// 向某人打招呼
+        /// </summary>
+		public static void SayHelloTo(string name){
+		 Console.WriteLine("Hello "+name);
+		}
     }
 }
