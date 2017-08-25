@@ -115,5 +115,7 @@ namespace MDM.Common
 		}
 		
 		//todo:增加一个方法
+		
+		//todo:再增加一个方法
     }
 }
