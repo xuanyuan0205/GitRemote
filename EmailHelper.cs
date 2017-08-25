@@ -113,5 +113,7 @@ namespace MDM.Common
 		public static void SingASong(){
 		 Console.WriteLine("Sing");
 		}
+		
+		//todo:增加一个方法
     }
 }
