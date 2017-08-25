@@ -454,6 +454,14 @@ namespace MDM.Common
 
             return true;
         }
+		
+		 /// <summary>
+        /// 测试方法
+        /// </summary>
+		public static void Test(){
+		 Console.WriteLine("Test");
+		}
+		
         #endregion
     }
 

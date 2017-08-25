@@ -106,5 +106,12 @@ namespace MDM.Common
 		public static void SayHelloTo(string name){
 		 Console.WriteLine("Hello "+name);
 		}
+		
+		 /// <summary>
+        /// 唱歌方法
+        /// </summary>
+		public static void SingASong(){
+		 Console.WriteLine("Sing");
+		}
     }
 }
