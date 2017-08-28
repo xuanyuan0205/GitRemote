@@ -120,5 +120,7 @@ namespace MDM.Common
 		
 	    //新分支方法
 		Creating a new branch is quick and simple.
+		
+		//git 是一个很好用的源码管理工具
     }
 }
