@@ -116,11 +116,11 @@ namespace MDM.Common
 		
 		//todo:增加一个方法
 		
-		//todo:再增加一个方法
-		
 	    //新分支方法
 		Creating a new branch is quick and simple.
 		
 		//git 是一个很好用的源码管理工具
+		
+		//123123
     }
 }
