@@ -119,5 +119,6 @@ namespace MDM.Common
 		//todo:再增加一个方法
 		
 	    //新分支方法
+		Creating a new branch is quick & simple.
     }
 }
