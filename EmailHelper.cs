@@ -122,5 +122,7 @@ namespace MDM.Common
 		//git 是一个很好用的源码管理工具
 		
 		//123123
+		
+		//some-feature 增加新功能
     }
 }
